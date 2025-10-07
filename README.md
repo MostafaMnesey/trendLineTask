@@ -1,4 +1,4 @@
-# 🧩 Next.js Authentication Project
+# 🧩 Trend Line Task (Full Authentication and Mock-Up Design With Next.js
 
 This project is a modern **Next.js (App Router)** application built with TypeScript, Flowbite React, and React Hot Toast.  
 It includes authentication guard logic, protected routes, and page-specific configurations.
